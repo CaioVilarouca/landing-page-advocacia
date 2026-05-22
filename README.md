@@ -27,11 +27,6 @@ A Landing Page foi criada com o objetivo de apresentar os serviços oferecidos p
         <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/04.png" width="350px">
       </td>
     </tr>
-    <tr>
-      <td>
-          <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/05.png" width="350px">
-      </td>
-    </tr>
   </table>
 </div>
 

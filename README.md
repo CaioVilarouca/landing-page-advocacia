@@ -8,7 +8,32 @@ A Landing Page foi criada com o objetivo de apresentar os serviços oferecidos p
 
 ### 🖼️ Prévia do projeto
 
-### Imagem desktop
+### Imagem do projeto
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/01.png" width="350px">
+      </td>
+      <td>
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/02.png" width="350px">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/03.png" width="350px">
+      </td>
+      <td>
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/04.png" width="350px">
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/05.png" width="350px">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Tecnologias utilizadas
 

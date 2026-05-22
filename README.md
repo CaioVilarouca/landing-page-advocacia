@@ -13,18 +13,18 @@ A Landing Page foi criada com o objetivo de apresentar os serviços oferecidos p
   <table>
     <tr>
       <td>
-        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/01.png" width="350px">
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/1.png" width="350px">
       </td>
       <td>
-        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/02.png" width="350px">
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/2.png" width="350px">
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/03.png" width="350px">
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/3.png" width="350px">
       </td>
       <td>
-        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/04.png" width="350px">
+        <img src="https://github.com/CaioVilarouca/landing-page-advocacia/blob/main/assets/img/4.png" width="350px">
       </td>
     </tr>
   </table>
